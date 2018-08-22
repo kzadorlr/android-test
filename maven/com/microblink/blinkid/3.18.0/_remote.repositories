@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 13 13:08:37 CEST 2018
+blinkid-3.18.0.pom>=
+blinkid-3.18.0-javadoc.jar>=
+blinkid-3.18.0.aar>=
